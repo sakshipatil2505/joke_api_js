@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+
+.container{
+    width: 500px;
+    height: 250px;
+    background-color:white;
+    text-align: center;
+}
